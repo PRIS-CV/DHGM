@@ -19,6 +19,25 @@
 </div>
 
 
+### Dependencies and Installation
+
+- Pytorch >= 1.8.1
+- CUDA >= 11.1
+- basicsr 1.4.2
+
+```
+# For install basicsr
+pip install basicsr==1.4.2
+
+python setup.py develop -i http://mirrors.aliyun.com/pypi/simple/
+
+python -m pip install --upgrade pip
+
+pip install numpy==1.24.4
+
+pip install -v -e .
+```
+
 
 ### Citation
 If this work is helpful for your research, please consider citing the following BibTeX entry.
