@@ -22,19 +22,17 @@
 
 ### Citation
 If this work is helpful for your research, please consider citing the following BibTeX entry.
-```
-@inproceedings{li2026seeing,
-  title={Seeing Through the Rain: Resolving High-Frequency Conflicts in Deraining and Super-Resolution via Diffusion Guidance},
-  author={Li, Wenjie and Shi, Jinglei and Han, Jin and Guo, Heng and Ma, Zhanyu},
-  booktitle={AAAI},
-  year={2026}
-}
-```
+
+    @inproceedings{li2026seeing,
+      title={Seeing Through the Rain: Resolving High-Frequency Conflicts in Deraining and Super-Resolution via Diffusion Guidance},
+      author={Li, Wenjie and Shi, Jinglei and Han, Jin and Guo, Heng and Ma, Zhanyu},
+      booktitle={AAAI},
+      year={2026}
+    }
+
 
 ### Acknowledgement
-
-The foundation for the training process is [BasicSR](https://github.com/XPixelGroup/BasicSR) , which profited from the outstanding contribution of [XPixelGroup](https://github.com/XPixelGroup) .
+The foundation for the training process is [BasicSR](https://github.com/XPixelGroup/BasicSR), which profited from the outstanding contribution of [XPixelGroup](https://github.com/XPixelGroup) .
 
 ### Contact
-
 This repo is currently maintained by lewj2408@gmail.com and is for academic research use only. 
