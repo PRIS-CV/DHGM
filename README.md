@@ -1,6 +1,6 @@
 <div align="center">
 
-## [Seeing Through the Rain: Resolving High-Frequency Conflicts in Deraining and Super-Resolution via Diffusion Guidance](https://arxiv.org/pdf/2511.12419) (AAAI 2026)
+## [Seeing Through the Rain: Resolving High-Frequency Conflicts in Deraining and Super-Resolution via Diffusion Guidance](https://arxiv.org/pdf/2511.12419)
 
 <div>
     <a href='https://24wenjie-li.github.io/' target='_blank'>Wenjie Li</a><sup>1</sup>&emsp;
