@@ -12,7 +12,7 @@
 <div>
     <sup>1</sup>Beijing University of Posts and Telecommunications&emsp; 
     <sup>2</sup>Nankai University&emsp; 
-    <sup>3</sup>Noah’s Ark Lab, HUAWEI&emsp; 
+    <sup>3</sup>Noah’s Ark Lab&emsp; 
 </div>
 
 [Paper](https://arxiv.org/pdf/2511.12419) | [Project Page]()
