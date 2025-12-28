@@ -20,7 +20,7 @@
 
 
 
-## Citation
+### Citation
 If this work is helpful for your research, please consider citing the following BibTeX entry.
 ```
 @inproceedings{li2026seeing,
@@ -31,10 +31,10 @@ If this work is helpful for your research, please consider citing the following 
 }
 ```
 
-## Acknowledgement
+### Acknowledgement
 
 The foundation for the training process is [BasicSR](https://github.com/XPixelGroup/BasicSR) , which profited from the outstanding contribution of [XPixelGroup](https://github.com/XPixelGroup) .
 
-## Contact
+### Contact
 
 This repo is currently maintained by lewj2408@gmail.com and is for academic research use only. 
