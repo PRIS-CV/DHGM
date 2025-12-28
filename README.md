@@ -2,8 +2,6 @@
 
 ## Seeing Through the Rain: Resolving High-Frequency Conflicts in Deraining and Super-Resolution via Diffusion Guidance (AAAI 2026)
 
-[Paper](https://arxiv.org/pdf/2511.12419) | [Project Page]()
-
 <div>
     <a href='https://24wenjie-li.github.io/' target='_blank'>Wenjie Li</a><sup>1</sup>&emsp;
     <a href='https://scholar.google.com.hk/citations?user=9tYW9LcAAAAJ&hl=zh-CN&oi=ao' target='_blank'>Jinglei Shi</a><sup>2</sup>&emsp;
@@ -17,6 +15,4 @@
     <sup>3</sup>Noah’s Ark Lab, HUAWEI&emsp; 
 </div>
 
-<!-- <div>
-    :triangular_flag_on_post: <strong>Accepted to AAAI 2026</strong>
-</div> -->
+[Paper](https://arxiv.org/pdf/2511.12419) | [Project Page]()
