@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Seeing Through the Rain: Resolving High-Frequency Conflicts in Deraining and Super-Resolution via Diffusion Guidance</h1>
+<h1>Seeing Through the Rain: Resolving High-Frequency Conflicts in Deraining and Super-Resolution via Diffusion Guidance (AAAI 2026)</h1>
 
 <div>
     <a href='https://24wenjie-li.github.io/' target='_blank'>Wenjie Li</a><sup>1</sup>&emsp;
@@ -11,10 +11,10 @@
 </div>
 <div>
     <sup>1</sup>Beijing University of Posts and Telecommunications&emsp; 
-    <sup>2</sup>Noah’s Ark Lab, HUAWEI&emsp; 
-    <sup>3</sup>Nankai University&emsp; 
+    <sup>2</sup>Nankai University&emsp; 
+    <sup>3</sup>Noah’s Ark Lab, HUAWEI&emsp; 
 </div>
 
-<div>
+<!-- <div>
     :triangular_flag_on_post: <strong>Accepted to AAAI 2026</strong>
-</div>
+</div> -->
