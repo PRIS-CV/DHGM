@@ -38,6 +38,32 @@ pip install numpy==1.24.4
 pip install -v -e .
 ```
 
+### Quick Start
+
+#### Download Pre-trained Models:
+Download the pretrained models from [[Google Drive]()] to the `weights/` folder. 
+
+#### Prepare Training / Testing Data:
+Download our processed data from [[Google Drive]()] to the input data folder. 
+
+
+### Quantitative results
+
+
+
+### Train
+
+```
+# For X2
+torchrun --nproc_per_node=$GPU_NUM$ basicsr/train.py -opt options/.yml --launcher pytorch
+```
+
+### Test
+
+```
+# For X2
+python basicsr/test.py -opt options/.yml
+```
 
 ### Citation
 If this work is helpful for your research, please consider citing the following BibTeX entry.
