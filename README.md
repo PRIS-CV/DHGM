@@ -51,6 +51,8 @@ Download our processed data from [[Google Drive]()] to the input data folder. (C
 #### Prepare Testing Data:
 Download our processed data from [[Google Drive]()] to the input data folder. (Coming soon)
 
+### Visual Results
+You can download our visual datas from [[Google Drive](https://drive.google.com/file/d/17YOUJEYmlWsKX99-qkJKSi5bkp5pJRDJ/view?usp=drive_link)].
 
 
 ### Train
@@ -70,7 +72,6 @@ Download the pretrained models from [[Google Drive](https://drive.google.com/fil
 
 
 ```
-# For X2
 python basicsr/test.py -opt options/test_Ours_x2_syn.yml
 ```
 
