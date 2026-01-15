@@ -51,7 +51,7 @@ Download our processed training data from [[Google Drive]()] to the input data f
 #### Prepare Testing Data:
 Download our processed testing data from [[Google Drive]()] to the input data folder. (Coming soon)
 
-#### Visual Results
+#### Visual Results:
 You can download the qualitative results of our DHGM from [[Google Drive](https://drive.google.com/file/d/17YOUJEYmlWsKX99-qkJKSi5bkp5pJRDJ/view?usp=drive_link)].
 
 
