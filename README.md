@@ -44,29 +44,33 @@ pip install -v -e .
 
 ### Quick Start
 
-#### Download Pre-trained Models:
-Download the pretrained models from [[Google Drive]()] to the `weights/` folder. 
-
-#### Prepare Training / Testing Data:
-Download our processed data from [[Google Drive]()] to the input data folder. 
+#### Prepare Training Data: 
+Download our processed training data from [[Google Drive]()] to the input data folder. (Coming soon)
 
 
-### Quantitative results
+#### Prepare Testing Data:
+Download our processed testing data from [[Google Drive]()] to the input data folder. (Coming soon)
 
+#### Visual Results:
+You can download the qualitative results of our DHGM from [[Google Drive](https://drive.google.com/file/d/17YOUJEYmlWsKX99-qkJKSi5bkp5pJRDJ/view?usp=drive_link)].
 
 
 ### Train
 
 ```
-# For X2
-torchrun --nproc_per_node=$GPU_NUM$ basicsr/train.py -opt options/.yml --launcher pytorch
+# For Stage I
+torchrun --nproc_per_node=$GPU_NUM$ basicsr/train.py -opt options/train_OursS1_x2_syn.yml --launcher pytorch
+
+# For Stage II
+torchrun --nproc_per_node=$GPU_NUM$ basicsr/train.py -opt options/train_OursS2_x2_syn.yml --launcher pytorch
 ```
 
 ### Test
+Download the pretrained models from [[Google Drive](https://drive.google.com/file/d/1syTqnQs7Uk9JxNBf_FbZCQhlsGW5DT_z/view?usp=drive_link)] to the `experiments/Ours/models` folder. 
+
 
 ```
-# For X2
-python basicsr/test.py -opt options/.yml
+python basicsr/test.py -opt options/test_Ours_x2_syn.yml
 ```
 
 ### Citation
