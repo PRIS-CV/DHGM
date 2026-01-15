@@ -66,8 +66,6 @@ torchrun --nproc_per_node=$GPU_NUM$ basicsr/train.py -opt options/train_OursS2_x
 ```
 
 ### Test
-
-#### Download Pre-trained Models:
 Download the pretrained models from [[Google Drive](https://drive.google.com/file/d/1syTqnQs7Uk9JxNBf_FbZCQhlsGW5DT_z/view?usp=drive_link)] to the `experiments/Ours/models` folder. 
 
 
