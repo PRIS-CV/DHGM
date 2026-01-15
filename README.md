@@ -44,15 +44,15 @@ pip install -v -e .
 
 ### Quick Start
 
-#### Prepare Training Data:
-Download our processed data from [[Google Drive]()] to the input data folder. (Coming soon)
+#### Prepare Training Data: 
+Download our processed training data from [[Google Drive]()] to the input data folder. (Coming soon)
 
 
 #### Prepare Testing Data:
-Download our processed data from [[Google Drive]()] to the input data folder. (Coming soon)
+Download our processed testing data from [[Google Drive]()] to the input data folder. (Coming soon)
 
-### Visual Results
-You can download our visual datas from [[Google Drive](https://drive.google.com/file/d/17YOUJEYmlWsKX99-qkJKSi5bkp5pJRDJ/view?usp=drive_link)].
+#### Visual Results
+You can download the qualitative results of our DHGM from [[Google Drive](https://drive.google.com/file/d/17YOUJEYmlWsKX99-qkJKSi5bkp5pJRDJ/view?usp=drive_link)].
 
 
 ### Train
