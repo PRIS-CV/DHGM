@@ -12,7 +12,7 @@
 <div>
     <sup>1</sup>Beijing University of Posts and Telecommunications&emsp; 
     <sup>2</sup>Nankai University&emsp; 
-    <sup>3</sup>Noah’s Ark Lab&emsp; 
+    <sup>3</sup>The University of Tokyo&emsp; 
 </div>
 
 <img src="assets/network.png" width="800px"/>
@@ -45,11 +45,11 @@ pip install -v -e .
 ### Quick Start
 
 #### Prepare Training Data: 
-Download our processed training data from [[Google Drive]()] to the input data folder. (Coming soon)
+Download our processed training data (lmdb) from [[Google Drive](https://drive.google.com/file/d/1nQPsfTVDzbHvVUro8Vl5s2ecFHQh79xM/view?usp=drive_link)] to the input data folder. Alternatively, you can visit RainDS, the official [[Raindrop](https://github.com/rui1996/DeRaindrop)] and [[RainDS](https://github.com/Songforrr/RainDS_CCN)] website, to download its paired data and downsample its rainfall maps to obtain the corresponding (GT, Rain_LR) data.
 
 
 #### Prepare Testing Data:
-Download our processed testing data from [[Google Drive]()] to the input data folder. (Coming soon)
+Download our processed testing data from [[Google Drive](https://drive.google.com/file/d/1QOuRnOMnheVf2vcqVe6ysLTlK-EHf4Ow/view?usp=drive_link)] to the input data folder.
 
 #### Visual Results:
 You can download the qualitative results of our DHGM from [[Google Drive](https://drive.google.com/file/d/17YOUJEYmlWsKX99-qkJKSi5bkp5pJRDJ/view?usp=drive_link)].
